@@ -1,5 +1,5 @@
 function hello() {
-  return "Hello world, from Bahía de Banderas!";
+  return "Hello, world!";
 }
 
 module.exports = hello;
